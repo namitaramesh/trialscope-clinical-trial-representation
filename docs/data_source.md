@@ -5,7 +5,7 @@
 - **Search condition:** Type 2 Diabetes
 - **Records downloaded:** Top 1,000 search results
 - **Format:** CSV
-- **Downloaded on:** Add the date you downloaded the file
+- **Downloaded on:** 2026-08-19
 - **Source URL:** https://clinicaltrials.gov/search?cond=Type%202%20Diabetes
 
 ## Data handling
