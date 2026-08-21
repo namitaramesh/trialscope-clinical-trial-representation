@@ -48,6 +48,16 @@ The raw source CSV is intentionally not uploaded to this repository. See
 Read the complete, carefully qualified interpretation in
 [docs/key_findings.md](docs/key_findings.md).
 
+## Visualisations
+
+### Reported study sites by country
+
+![Bar chart of the ten countries with the most reported Type 2 diabetes study sites](docs/figures/top_reported_sites_by_country.png)
+
+### Typical enrollment by study type
+
+![Bar chart comparing median reported enrollment for interventional and observational studies](docs/figures/median_enrollment_by_study_type.png)
+
 ## Repository structure
 
 ```text
